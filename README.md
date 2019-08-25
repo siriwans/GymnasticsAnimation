@@ -1,5 +1,4 @@
-NAME: Siriwan Sereesathien
-
+# Animated gymnastics round-off backhandspring tumbling pass.
 
 KEY COMMANDS:
       W/S: zooming in and out along the current gaze to look around the world
@@ -9,5 +8,3 @@ KEY COMMANDS:
         R: to restart animation
    SCROLL: as the rotating around the world, 360 degrees around and 80
            degrees up/down look
-SUMMARY:
-      Animated gymnastics round-off backhandspring tumbling pass. Added particles as sparkles at the end of the tumbling pass.
